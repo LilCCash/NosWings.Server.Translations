@@ -2,8 +2,8 @@ ACCEPTED_SHARE: Tranzione accettata.
 ACHIEVEMENT_CHAT_MESSAGE: '#ACHIEVEMENT_CHAT_MESSAGE'
 ACHIEVEMENT_CHAT_PLAYER_MESSAGE: '#ACHIEVEMENT_CHAT_PLAYER_MESSAGE'
 ACHIEVEMENT_GOLDEN_MESSAGE: '#ACHIEVEMENT_GOLDEN_MESSAGE'
-ACT4_CHANNEL_OFFLINE: Act.4 Channel is Offline
-ACT4_NEED_FACTION: ACT4 bisogna di una fazione.
+ACT4_CHANNEL_OFFLINE: Il canale dell'Atto 4 è offline
+ACT4_NEED_FACTION: Per entrare in Atto 4 hai bisogno di una fazione.
 ACT4_PVP_DEATH: ACT4 PVP morto.
 ACT4_PVP_DIE: ACT4 PVP morto.
 ACT4_PVP_KILL: ACT4 PVP ucciso.
@@ -19,38 +19,38 @@ ALREADY_IN_FAMILY: Qualcuno ha già una gilda.
 ALREADY_IN_GROUP: Sei già in un gruppo.
 ALREADY_MARRIED: L'utente è gia sposato
 ALREADY_MAX_RARE: Rarità massima
-ALREADY_PET_IN_TEAM: Your NosMate is already on the team.
+ALREADY_PET_IN_TEAM: Il tuo NosMate è già nel gruppo.
 ALREADY_QUEST: '#ALREADY_QUEST'
 ALREADY_TAKEN: Questo nome è già in uso !
-ALREADY_THIS_MINILANDOBJECT: You've already this miniland object
+ALREADY_THIS_MINILANDOBJECT: Hai già questo oggetto
 ALREADY_TWO_ASSISTANT: Hai già due vice!
 AMMO_LOADED_ADVENTURER: Munizioni caricate!
 AMMO_LOADED_ARCHER: Frecce caricate!
 AMMO_LOADED_SWORDSMAN: Dardi caricati!
-AMULET_DESTROYED: Amuleto distrutta !
+AMULET_DESTROYED: Amuleto distrutto !
 AMULET_FAIL_SAVED: Il miglioramento non è riuscito, L’amuleto ha conservato la tua attrezzatura
-ARCHER: Archer
-ARENA_CALLED: 'A participant has called : {0}'
-ARENA_KILL: '{0} has been killed by {1}.'
-ARENA_NOT_OPEN: Arena talent is open at 18:00 - 22:00
-ARENA_PENALTY_NOTICE: If you cancel the inscription you will suffered a penalty.
-ARENA_TALENT_LEFT: You successfully left the Talent Arena!
-ARENA_TEAM_FOUND: Participants found!
-ARENA_TEAM_LEAVE: You successfully left the Team
+ARCHER: Arciere
+ARENA_CALLED: 'Un partecipante ha chiamato : {0}'
+ARENA_KILL: '{0} è stato ucciso da {1}.'
+ARENA_NOT_OPEN: L'Arena dei Talenti è aperta in questi orari 18:00 - 22:00
+ARENA_PENALTY_NOTICE: Se cancelli l'iscrizione riceverai una penalità.
+ARENA_TALENT_LEFT: Hai lasciato l'Arena dei talenti!
+ARENA_TEAM_FOUND: Partecipanti trovati!
+ARENA_TEAM_LEAVE: Hai lasciato il gruppo
 ARENA_TEAM_LEFT: '#ARENA_TEAM_LEFT'
-ARENA_TICKET_LEFT: Remaining participation(s) {0}
+ARENA_TICKET_LEFT: Partecipazioni rimaste {0}
 ASK_ADD_TITLE: '#ASK_ADD_TITLE'
 ASK_BIND: Vuoi davvero usare questo oggetto? L'oggetto sarà di uso esclusivo tuo.
 ASK_CHANGE_FACTION: '#ASK_CHANGE_FACTION'
 ASK_CHANGE_FAMILY_FACTION: '#ASK_CHANGE_FAMILY_FACTION'
-ASK_CHANGE_SPAWNLOCATION: Do you want to change the respawn town?
+ASK_CHANGE_SPAWNLOCATION: Vuoi cambiare il tuo spawn?
 ASK_ENTRY_IN_FIRST_ROOM: Iniziare la missione ?
 ASK_FAMILY_INVITED: Sei stato invitato ad unirti alla famiglia {0], accettare?
 ASK_JOIN_TEAM_TS: Vuoi unirti ai membri del tuo gruppo?
-ASK_KICK_PET: Do you want to refer your NosMate to the Mini-Land?
+ASK_KICK_PET: Vuoi davvero rimandare il NosMate alla Mini-Land?
 ASK_OPEN_BOX: Vuoi apprire il cassaforte?
 ASK_PARTNER_MAX: '#ASK_PARTNER_MAX'
-ASK_PET_MAX: Your pet reached max level!
+ASK_PET_MAX: Il tuo pet ha raggiunto il livello massimo!
 ASK_RELEASE_PET: Vuoi far uscire il tuo NosMate dalla perla?
 ASK_RESET_ALL_PSP_SKILLS: '#ASK_RESET_ALL_PSP_SKILLS'
 ASK_REVIVE: Vuoi rivivere? Ti costerà 10 semi della potenza.
@@ -58,7 +58,7 @@ ASK_REVIVE_FREE: Vuoi rivivere? E' gratuito.
 ASK_REVIVE_LOD: vuoi rivivere qui? Ti costerà una Fontana del Salvatore.
 ASK_REVIVE_PVP: Vuoi rivivere? Ti costerà 100 oro.
 ASK_REVIVE_TS: Vuoi rivivere? Attenzione, ti toglierà una vita
-ASK_REVIVE_TS_LOW_LEVEL: Do you want to revive?
+ASK_REVIVE_TS_LOW_LEVEL: Vuoi rivivere?
 ASK_STORE_PET: Vuoi mettere questo animale nella sua perla?
 ASK_TO_DELETE: L'item verrà distrutto.
 ASK_USE: Vuoi davvero usare quest'oggetto?
@@ -115,7 +115,7 @@ CHANNEL: Canale
 CHARACTER_FAMILY_LOGGED_IN: '{0}({1}) si è connesso.'
 CHARACTER_LOGGED_IN: '{0} si è connesso.'
 CHARACTER_LOGGED_OUT: '{0} si è disconnesso.'
-CHARACTER_NOT_IN_FRIENDLIST: This Player is not in your friendlist
+CHARACTER_NOT_IN_FRIENDLIST: Questo giocatore non è nella tua lista amici
 CLASS_CHANGED: La tua classe è stata cambiata.
 COMMANDS_AVAILABLE: '#COMMANDS_AVAILABLE'
 COMMANDS_HELP: '#COMMANDS_HELP'
@@ -129,11 +129,11 @@ COMPLIMENT_RECEIVED: Sei stato lodato da {0}.
 COSTUME_BLOCKED: '#COSTUME_BLOCKED'
 COSTUME_UNLOCKED: '#COSTUME_UNLOCKED'
 CRAFTED_OBJECT: 'Hai craftato: {0} x {1}'
-CREATE_FAMILY: Do you want to create your family?
+CREATE_FAMILY: Vuoi creare una famiglia?
 CUARRY_BANK_ITEM_IN_EQ: '#CUARRY_BANK_ITEM_IN_EQ'
 DIGNITY_LOST: Hai perso {0} di dignità!
 DIGNITY_RESTORED: La tua dignità è al massimo
-DISMISS_FAMILY: Do you want to dismiss yur family?
+DISMISS_FAMILY: Vuoi davvero sciogliere la famiglia?
 DIVORCED: Ora sei divorziato
 DO_YOU_WANT_MODIFY_SKILL: '#DO_YOU_WANT_MODIFY_SKILL'
 DO_YOU_WANT_START_RAID: Vuoi iniziare il raid?
@@ -161,7 +161,7 @@ EXPEVENT_ENABLED: '#EXPEVENT_ENABLED'
 FAIRY_LEVELUP: La potenza della tua fata è aumentata di {0} livello.
 FAIRYMAX: la tua fata ha raggiunto il livello massimo
 FAIRYSTATS: 'Fairy XP: {0}/{1}'
-FAMILY_CREATION_SOMEONE_ALREADY_IN_FAMILY: Someone in your group is already in a family or recently left a family
+FAMILY_CREATION_SOMEONE_ALREADY_IN_FAMILY: Qualcuno nel tuo gruppo è già in una famiglia o ne ha lasciata una da poco
 FAMILY_FOUNDED: La famiglia {0} è stata fondata!
 FAMILY_FULL: Non puoi aggiungere altri membri nella tua famiglia, perché non c’è abbastanza spazio
 FAMILY_GROUP_NOT_FULL: You can't create family without full group!
@@ -173,10 +173,10 @@ FAMILY_INVITED: Giocatore {0} è stato invitato!
 FAMILY_JOINED: Giocatore {0} si è unito alla famiglia {1} !
 FAMILY_LEAVE: Hai lasciato la famiglia.
 FAMILY_NAME_ALREADY_USED: Il nome della famiglia è già stato preso!
-FAMILY_RANK_ASSISTANT: Assistant
+FAMILY_RANK_ASSISTANT: Assistente
 FAMILY_RANK_HEAD: Head
 FAMILY_RANK_MANAGER: Manager
-FAMILY_RANK_MEMBER: Member
+FAMILY_RANK_MEMBER: Membro
 FAMILY_REQ_LOCKED: Da questo momento in poi gli inviti nelle Famiglie verranno bloccati.
 FAMILY_REQ_UNLOCKED: Gli inviti nelle Famiglie sono stati abilitati
 FAMILY_UP: Congratulazione, La tua famiglia a salire di livello!
@@ -215,7 +215,7 @@ GROUP_CLOSED: Gruppo chiuso
 GROUP_FULL: Il gruppo e' pieno
 GROUP_JOIN: Sei entrato nel gruppo di {0}.
 GROUP_LEFT: Sei uscito dal gruppo
-GROUP_MEMBER_ALREADY_IN_FAMILY: Someone in party already has family!
+GROUP_MEMBER_ALREADY_IN_FAMILY: Qualcuno nel gruppo ha già una famiglia!
 GROUP_REQ_BLOCKED: Da questo momento in poi le richieste di gruppo verranno bloccate.
 GROUP_REQ_UNBLOCKED: Le richieste di gruppo sono state abilitate.
 GROUP_REQUEST: 'Richiesta di gruppo inviata a: {0}'
@@ -244,7 +244,7 @@ IMPOSSIBLE_TO_USE: Non è possibile utilizzarlo al momento
 IN_BATTLE: Non puoi invitare i giocatori mentre combattono!
 IN_FAMILY: '#IN_FAMILY'
 IN_WAITING_FOR: In attesa di {0}
-INCOMING_EXCHANGE: '{0} wants to exchange with you'
+INCOMING_EXCHANGE: '{0} vuole scambiare con te'
 INFO_BAZAAR: Non puoi aprire il NosBazar perchè non possiedi l'oggetto richiesto !
 INSTANT_COMBAT: '#INSTANT_COMBAT'
 INSTANTBATTLE_MINUTES: Il Combattimento Istantaneo inizierà tra {0} minuti.
@@ -273,7 +273,7 @@ ITEM_IS_FIXED: L'upgrade dell'item è stato bloccato.
 ITEM_IS_HEROIC: '#ITEM_IS_HEROIC'
 ITEM_IS_WITHOUT_SHELLS: '#ITEM_IS_WITHOUT_SHELLS'
 ITEM_NO_HEROIC: '#ITEM_NO_HEROIC'
-ITEM_NOT_DROPPABLE: You cant drop that item!
+ITEM_NOT_DROPPABLE: Non puoi gettare questo oggetto!
 ITEM_NOT_DROPPABLE_HERE: Non puoi gettare quest'oggetto!
 ITEM_NOT_SOLDABLE: Questo item non può essere venduto.
 ITEM_NOT_TRADABLE: Questo item non può essere scambiato.
@@ -314,12 +314,12 @@ MAX_GOLD_BANK_REACHED: Massimo soldi raggiunto nella banca
 MAX_MATES_COUNT: Non puoi avere piu di compagno
 MAX_PARTNER_REACHED: '#MAX_PARTNER_REACHED'
 MAX_PET_REACHED: '#MAX_PET_REACHED'
-MESSAGE_SENT_TO_CHARACTER: Sending message to  '{0}' on channel {1}.
+MESSAGE_SENT_TO_CHARACTER: Messaggio mandato a  '{0}' nel canale {1}.
 METEORITE_MINUTES: Meteorite game will start in {0} minutes
 METEORITE_ROUND: '{0} round started!'
 METEORITE_STARTED: Meteorite game has started
-MINI_INV_BLOCKED: Miniland invite blocked
-MINI_INV_UNLOCKED: Miniland invite allowed
+MINI_INV_BLOCKED: Inviti nella Mini-Land bloccati
+MINI_INV_UNLOCKED: Inviti nella Mini-Land consentiti
 MINILAND_CLOSED_BY_FRIEND: La Mini-Land è stata chiusa.
 MINILAND_INFO_CHANGED: Informazioni Mini-Land cambiate.
 MINILAND_LOCK: La Mini-Land è stata bloccata.
@@ -327,7 +327,7 @@ MINILAND_NEED_LOCK: Devi prima bloccare la Mini-Land per costruire.
 MINILAND_PRIVATE: La Mini-Land adesso è pubblica.
 MINILAND_PUBLIC: La Mini-Land adesso è pubblica
 MINILAND_VISITOR: 'Visite Totali: {0}, Visite Giornaliere: {1}'
-MINILAND_WELCOME_MESSAGE: Welcome!
+MINILAND_WELCOME_MESSAGE: Benvenuto!
 MONSTER_LEVEL_MUST_BE_LOWER_THAN_YOURS: '#MONSTER_LEVEL_MUST_BE_LOWER_THAN_YOURS'
 MONSTER_MUST_BE_LOW_HP: '#MONSTER_MUST_BE_LOW_HP'
 MOTD_HELP_COMMAND: '#MOTD_HELP_COMMAND'
@@ -346,16 +346,16 @@ MSG_UNDER_CHAT7: '#MSG_UNDER_CHAT7'
 MSG_UNDER_CHAT8: '#MSG_UNDER_CHAT8'
 MSG_UNDER_CHAT9: '#MSG_UNDER_CHAT9'
 MUST_BE_IN_CLASSIC_MAP: '#MUST_BE_IN_CLASSIC_MAP'
-MUTE_TIME: Punishment duration{0}
+MUTE_TIME: Durata punizione{0}
 MUTED_FEMALE: I was a very bad girl, and i got punished!
 MUTED_MALE: I was a bad boy, so i got punished!
 NB_ITEM_SOLD: '#NB_ITEM_SOLD'
-NEED_FAMILY: You cannot join the Land Of The Dead without family.
+NEED_FAMILY: Non puoi entrare in LoD senza una famiglia.
 NEED_PERFUM_TO_CHANGE_SHELL: Bisogna di profumi per scambiare di proprietario
 NEED_TEAM: Bisogna di una squadra per comminciare l'avventura
 NEW_LEADER: Adesso sei il leader del gruppo
-NEW_MAIL: An new mail arrived!
-NEW_MISSION: New mission goal.
+NEW_MAIL: Ti è arrivata una mail!
+NEW_MISSION: La missione ha un nuovo obiettivo.
 NEW_NAME_PET_MAX_LENGTH: '#NEW_NAME_PET_MAX_LENGTH'
 NO_AMMO_ADVENTURER: Non hai abbastanza Munizioni... Comprali al Negozio d'Armi!
 NO_AMMO_ARCHER: Non hai abbastanza Frecce... Comprali al Negozio d'Armi!
@@ -365,14 +365,14 @@ NO_FAMILY_RIGHT: '>Non disponi dei diritti necessari.'
 NO_FAMILY_WAREHOUSE: Nessun magazzino di famiglia trovato.
 NO_GILLION: Ti serve più di Pietra Gilion
 NO_PARTNER_IN_TEAM: '#NO_PARTNER_IN_TEAM'
-NO_PREZ_MESSAGE: No description.
+NO_PREZ_MESSAGE: Nessuna descrizione.
 NO_SP: Nessuna carta speciale in uso
 NO_TALENT_ARENA: '#NO_TALENT_ARENA'
-NO_TEAM_ARENA: No participants found
+NO_TEAM_ARENA: Nessun partecipante trovato
 NO_WEAPON: Equipaggia un arma
 NO_WIG: Non puoi indossare i cappeli speciale
-NO_WINGS: You don't have any friend wing!
-NOT_ADVENTURER: You can change class only once.
+NO_WINGS: Non hai ali dell'amicizia!
+NOT_ADVENTURER: Puoi cambiare classe solo una volta.
 NOT_ALLOWED_KICK: Non hai il permesso di cacciare i giocatori!
 NOT_ENOUGH_CP: Non hai abbastanza punti CP.
 NOT_ENOUGH_DURABILITY_POINT: Non hai abbastanza punti di durabilità
@@ -383,7 +383,7 @@ NOT_ENOUGH_ITEMS: '#NOT_ENOUGH_ITEMS'
 NOT_ENOUGH_MINILAND_POINT: Not enough miniland points
 NOT_ENOUGH_MP: '#NOT_ENOUGH_MP'
 NOT_ENOUGH_PLACE: Non hai abbastanza spazio
-NOT_ENOUGH_POINTS: You don't have enough sp points to do this.
+NOT_ENOUGH_POINTS: Non hai abbastanza punti SP.
 NOT_ENOUGH_POWER_SEED: Non hai abbastanza semi della potenza
 NOT_ENOUGH_REPUT: Reputazione insufficiente
 NOT_ENOUGH_REQUIERED_ITEM: Non hai abbastanza di componente.
@@ -433,10 +433,10 @@ PERFECTSP_WATER: Acqua
 PET_ALREADY_CAN_PICK_UP: '#PET_ALREADY_CAN_PICK_UP'
 PET_AUTO_RELIVE_DISABLED: Il tuo compagno ritornerà al Mini-Land, dopo la sua morte.
 PET_AUTO_RELIVE_ENABLED: il tuo compagno potrà essere salvato dopo la sua morte, ti costerà semi di potere.
-PET_CAN_PICK_UP: Adesso, il tuo NosMate può far cadere gli oggetti.
+PET_CAN_PICK_UP: Adesso, il tuo NosMate può raccogliere gli oggetti.
 PET_HIGHER_LEVEL: Your NosMate level is too much high to be equiped.
 PET_IN_TEAM_UNRELEASABLE: Non puoi liberare il tuo NosMate se è in gruppo con te.
-PET_KICKED: Your NosMate has been refer to your Mini-Land.
+PET_KICKED: Il tuo NosMate è tornato alla Mini-Land.
 PET_LEAVE_BEAD: Il tuo NosMate è uscito dalla perla!
 PET_RELEASED: Il tuo NosMate è stato liberato.
 PET_STORED: Il tuo NosMate è stato rinchiuso nella perla
@@ -479,7 +479,7 @@ REPUT_DECREASE: Reputazione diminuita!
 REPUT_INCREASE: 'Reputazione aumentata : {0}'
 REPUT_RATE: '#REPUT_RATE'
 RESPAWN_CALIGOR_ENTRY: '#RESPAWN_CALIGOR_ENTRY'
-RESPAWNLOCATION_CHANGED: The town has been changed!
+RESPAWNLOCATION_CHANGED: Spawn point cambiato!
 RESTORE_DIGNITY: 'Dignità aumentata: +1'
 RESURRECT_IN_SECONDS: Sarai resuscitato in pochi secondi
 RETRY_SEARCH_ARENA_TEAM: '#RETRY_SEARCH_ARENA_TEAM'
@@ -499,7 +499,7 @@ SEX_CHANGED: Il sesso è stato cambiato
 SHARING: Condivisione per tutti gli elementi del gruppo
 SHARING_BY_ORDER: Condivisione per ordine
 SHEEP_STARTED: '#SHEEP_STARTED'
-SHELL_ALREADY_IDENTIFIED: Options of this object are already identified.
+SHELL_ALREADY_IDENTIFIED: Le opzioni di questa runa sono già state identificate.
 SHELL_BROKEN: La runa è rotta perché l’aggiunta dell’opzione non è riuscita
 SHELL_ERASED: L’opzione è stata rimossa
 SHELL_FOR_ARMOR_ONLY: Non puoi aggiungere l’opzione a questa attrezzatura, solo sulle armature di protezione
@@ -556,19 +556,19 @@ TARGET_MAX_GOLD: '#TARGET_MAX_GOLD'
 TEAM_ARENA_LEFT: '#TEAM_ARENA_LEFT'
 TEAM_LEADER_CHANGE: Ora sei il capogruppo
 TEAM_WINNER_ARENA_ROUND: '#TEAM_WINNER_ARENA_ROUND'
-TELEPORTED_IN: You will be teleported in {0} seconds.
+TELEPORTED_IN: Verrai teletrasportato tra {0} secondi.
 TITLE_UNLOCKED: '#TITLE_UNLOCKED'
 TOO_FAR_TO_UNFREEZE: '#TOO_FAR_TO_UNFREEZE'
 TOO_LOW_LVL: Il tuo livello non corrisponde
 TOO_MUCH_GOLD: Tu hai troppo oro!
-TRADE_BLOCKED: User has blocked exchanges!
+TRADE_BLOCKED: L'utente ha bloccato gli scambi!
 TRANSFORM_DISAPPEAR: L'effetto secondario della trasformazione è finito
-TRANSFORMATION_NEEDED: You need to be transformed to reset your sp points.
+TRANSFORMATION_NEEDED: Devi prima trasformarti.
 TRY_FAILED: '#TRY_FAILED'
-TRY_FAILED_WAIT: Try after{0}s
+TRY_FAILED_WAIT: Riprova tra {0}
 TS_PENALTY: Penalità dello spazio tempo
-UI_BLOCKED: UI locked!
-UI_UNLOCKED: UI unlocked!
+UI_BLOCKED: UI bloccata!
+UI_UNLOCKED: UI sbloccata!
 UNDER_EFFECT: Sei sotto l’effetto di {0}
 UPGRADE_FAILED: L'upgrade è fallito
 UPGRADE_FAILED_ITEM_SAVED: L'upgrade è fallito, ma l'item non è scomparso.
@@ -581,7 +581,7 @@ UPGRADESP_SUCCESS: Miglioramento del SP riuscito!
 USER_NOT_CONNECTED: Il giocatore non è connesso.
 USER_NOT_FOUND: Utente non trovato!
 USER_NOT_FOUND_IN_ARENA: Utente non trovato!
-USER_NOT_HERO: Only heroes may use hero messages.
+USER_NOT_HERO: Solo gli eroi possono mandare messaggi eroe.
 USER_ON_INSTANCEMAP: The player is not on a general map.
 USER_WHISPER_BLOCKED: L'utente ha bloccato la chat privata!
 VICTORIOUS_ERENIA: Vincitore ! Erenia
@@ -603,7 +603,7 @@ WINNER_ARENA_ROUND: '#WINNER_ARENA_ROUND'
 WITHDRAW_BANK: '#WITHDRAW_BANK'
 XP_NOTFIRSTHIT: Visto che non sei stato il primo che ha attaccato, riceverai solo una parte dell'esperienza
 YOU_ARE_RAID_LEADER: Sei il capo della squadra di avventura, invita i giocatori!
-YOU_ASK_FOR_EXCHANGE: You ask for an exchange with{0}.
+YOU_ASK_FOR_EXCHANGE: Hai chiesto a {0} di scambiare.
 YOU_CATCHED_PET_X: '#YOU_CATCHED_PET_X'
 YOU_GET_PET: 'Hai ottenuto un NosMate chiamato: {0}.'
 YOU_HAVE_LIFE: Puoi ancora tornare a vivere {0}x
